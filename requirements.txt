@@ -1,1 +1,2 @@
-fastapiuvicornstreamlitlangchainlangchain-communitylangchain-google-genailangchain-coreyoutube-transcript-apirequestspydantic
+streamlit
+requests
